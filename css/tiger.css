@@ -51,6 +51,7 @@ h2 {
     background-color: rgb(233, 177, 238);
     border: 4px solid rgb(151, 90, 146);
     width: 100%;
+    color: black;
 }
 .column {
     display: flex;
