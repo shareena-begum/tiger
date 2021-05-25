@@ -1,6 +1,8 @@
 body {
     margin: 100px;
-    background-color: linear-gradient(red, yellow);
+    background: black ;
+    color:aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
     background-color: #a38fdd;
